@@ -28,7 +28,7 @@ author:
       url: "/assets/Deitz-CV-2026-Mar.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "shiloh.deitz@slu.edu" 
+      url: "mailto:shiloh.deitz@slu.edu" 
 
 # Navigation
 nav_links: &nav
