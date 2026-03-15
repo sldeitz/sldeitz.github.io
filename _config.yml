@@ -1,0 +1,67 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"
+
+# Site Settings
+locale: "en-US"
+title: "Shiloh L. Deitz"
+title_separator: "—"
+subtitle: "spatial analysis | cartography | infrastructure | social inequality"
+name: "Shiloh L. Deitz"
+description: "Spatial data scientist, cartographer, and sociologist at Saint Louis University."
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL or custom domain
+baseurl: ""
+repository: "yourusername/yourusername.github.io" # Replace with your GitHub repo
+
+# Author
+author:
+  name: "Shiloh L. Deitz"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Assistant Professor of Sociology, Saint Louis University. Spatial data scientist, cartographer, and sociologist."
+  location: "St. Louis, MO"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=0jwmA4MAAAAJ&hl=en"
+    - label: "Curriculum Vitae"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/Deitz-CV-2026-Mar.pdf"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your.email@slu.edu" # Replace with your SLU email
+
+# Navigation
+nav_links: &nav
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

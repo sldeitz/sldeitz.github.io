@@ -1,0 +1,54 @@
+---
+# Only the main file needs front matter (or blank with triple dashes)
+---
+
+@charset "utf-8";
+
+// ============================================================
+// DESIGN CUSTOMIZATION — edit these variables to change the look
+// ============================================================
+
+// --- Skin: choose one by uncommenting it ---
+// The _config.yml also has a skin setting; these variables override finer details.
+
+// --- Fonts ---
+// Minimal Mistakes uses system fonts by default.
+// To use Google Fonts, paste a @import line here and update the variables below.
+// Example using a clean serif + sans pairing:
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+$serif        : "Lora", Georgia, serif;
+$sans-serif   : "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+$global-font-family : $sans-serif;
+$header-font-family : $serif;
+
+// --- Font sizes ---
+$type-size-5  : 1rem;     // body text
+$type-size-4  : 1.1rem;   // slightly larger body
+
+// --- Colors ---
+// To change the link color, update $link-color.
+// To change the sidebar/masthead background, update $masthead-link-color etc. in the skin.
+$link-color               : #185FA5;   // blue — matches your research area
+$link-color-hover         : #0c447c;
+
+// ============================================================
+// Load the theme (must come after your variable overrides)
+// ============================================================
+@import "minimal-mistakes";
+
+// ============================================================
+// ADDITIONAL TWEAKS (add your own CSS below this line)
+// ============================================================
+
+// Slightly more breathing room in the main content
+.page__content {
+  font-size: 1.05em;
+  line-height: 1.75;
+}
+
+// Make publication list items easier to read
+.page__content ul li {
+  margin-bottom: 0.75em;
+}
