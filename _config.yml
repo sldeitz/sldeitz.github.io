@@ -9,9 +9,9 @@ title_separator: "—"
 subtitle: "spatial analysis | cartography | infrastructure | social inequality"
 name: "Shiloh L. Deitz"
 description: "Spatial data scientist, cartographer, and sociologist at Saint Louis University."
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL or custom domain
+url: "https://sldeitz.github.io"
 baseurl: ""
-repository: "yourusername/yourusername.github.io" # Replace with your GitHub repo
+repository: "sldeitz/sldeitz.github.io"
 
 # Author
 author:
@@ -28,7 +28,7 @@ author:
       url: "/assets/Deitz-CV-2026-Mar.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your.email@slu.edu" # Replace with your SLU email
+      url: "shiloh.deitz@slu.edu" 
 
 # Navigation
 nav_links: &nav
