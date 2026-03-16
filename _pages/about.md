@@ -29,8 +29,4 @@ Dissertation: *Disabling Environments: Interpolating Missing Environmental Featu
 **M.A., Sociology** — Southern Illinois University, 2014
 
 **B.A., Peace Studies** — Whitworth University, 2009
-**M.S., Geography** — Southern Illinois University, 2016
 
-**M.A., Sociology** — Southern Illinois University, 2014
-
-**B.A., Peace Studies** — Whitworth University, 2009
