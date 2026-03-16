@@ -11,8 +11,6 @@ My research investigates how mundane infrastructures — housing, transportation
 
 I am a broadly trained methodologist, drawing on spatial analysis, GeoAI, ethnography, cartography, and mixed methods to connect systemic injustice to lived experience — with the goal of informing more just policies, technologies, and communities. I am committed to research that reaches beyond the academy: through community data partnerships, public talks, and work that speaks directly to policy.
 
-At Saint Louis University, I teach *Statistics and the Social World*, *Our World in Big Data*, and *Cartography for Social Justice* — courses that ask students not just to use data, but to question it. I am part of the leadership team building a new minor in Geospatial Analysis and Visualization in our Sociology and Anthropology Department.
-
 Recent publications appear in *Progress in Human Geography*, *Canadian Geographies*, *Big Data & Society*, *Annals of the American Association of Geographers*, and *Cityscape*. I am a collaborator on a Social Sciences and Humanities Research Council (SSHRC) Insight Grant and co-editor of an upcoming special issue on inclusive cities in *Canadian Geographies*.
 
 [View publications](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=0jwmA4MAAAAJ&hl=en) · [Download CV](/assets/Deitz-CV-2026-Mar.pdf)
