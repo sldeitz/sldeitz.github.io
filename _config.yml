@@ -17,7 +17,7 @@ repository: "sldeitz/sldeitz.github.io"
 author:
   name: "Shiloh L. Deitz"
   avatar: "/assets/images/profile.jpg"
-  bio: "Assistant Professor of Sociology, Saint Louis University. Spatial data scientist, cartographer, and sociologist."
+  bio: "Assistant Professor of Sociology at Saint Louis University. I study infrastructural inequality and its uneven effects, applying disability justice theory to reimagine data science, AI, and GIS."
   location: "St. Louis, MO"
   links:
     - label: "Google Scholar"
