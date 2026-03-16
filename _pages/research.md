@@ -13,7 +13,7 @@ My research applies disability justice theory to interrogate how data, AI, and g
 
 ## Critical Disability GIS and GeoAI Ethics
 
-Cities are built for some bodies and not others. This project examines how missing and biased environmental data shapes the lives of disabled people in urban spaces — and what it would mean to reimagine GIS and AI through a disability justice framework. A core contribution of this work is developing the emerging field of **critical Disability GIS**: a theoretical and methodological approach that centers disabled experience, challenges ableist assumptions in spatial data science, and builds toward more just geographic tools.
+Cities are built for some bodies and not others. This project examines how missing and biased environmental data shapes the lives of disabled people in urban spaces — and what it would mean to reimagine GIS and AI through a disability justice framework. A core contribution of this work is developing the emerging field of **Disability GIS**: a theoretical and methodological approach that centers disabled experience, challenges ableist assumptions in spatial data science, and builds toward more just geographic tools.
 
 A related thread interrogates the ethics of GeoAI — asking what epistemological commitments underlie AI classification systems, how bias operates in training data, and what replicability and relevance mean in geographic AI research.
 
