@@ -32,7 +32,7 @@ A related thread interrogates the ethics of GeoAI — asking what epistemologica
 
 ---
 
-## Critical Public Infrastructure and Data Justice
+## Public Infrastructure and Data Justice
 
 Public infrastructures — housing, water, transportation — are not neutral. They reflect and reproduce racial, economic, and spatial inequalities. This body of work examines how infrastructure data systems make some inequities legible and others invisible, and what more just data practices might look like.
 
