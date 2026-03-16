@@ -10,9 +10,7 @@ I welcome inquiries from students, collaborators, journalists, and community org
 **Shiloh L. Deitz**  
 Assistant Professor, Department of Sociology and Anthropology  
 Saint Louis University  
-St. Louis, Missouri
-
-Email: [your.email@slu.edu](mailto:your.email@slu.edu) *(replace with your SLU email)*
+[shiloh.deitz@slu.edu](mailto:shiloh.deitz@slu.edu)
 
 ---
 
@@ -21,7 +19,7 @@ Email: [your.email@slu.edu](mailto:your.email@slu.edu) *(replace with your SLU e
 <!-- Formspree contact form — free tier supports 50 submissions/month.
      Replace YOUR_FORM_ID with the ID from https://formspree.io after signing up. -->
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="max-width: 600px;">
+<form action="https://formspree.io/f/xojkkaya" method="POST" style="max-width: 600px;">
   <div style="margin-bottom: 1rem;">
     <label for="name" style="display:block; margin-bottom: 4px; font-size: 0.9em;">Name</label>
     <input type="text" id="name" name="name" required
