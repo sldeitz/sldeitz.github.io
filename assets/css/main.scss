@@ -6,7 +6,7 @@
 
 body, p, li, td {
   font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
-  font-size: 17px;
+  font-size: 15px;
   line-height: 1.8;
 }
 
@@ -22,3 +22,5 @@ a {
 a:hover {
   color: #0c447c;
 }
+
+.page__footer-follow { display: none; }
