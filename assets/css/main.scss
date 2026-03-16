@@ -2,24 +2,18 @@
 ---
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
 
-$serif        : "Libre Baskerville", Georgia, serif;
-$sans-serif   : "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+$serif      : "Libre Baskerville", Georgia, serif;
+$sans-serif  : "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
 $global-font-family : $sans-serif;
 $header-font-family : $serif;
-
 $link-color         : #185FA5;
 $link-color-hover   : #0c447c;
 
 @import "minimal-mistakes";
 
-.page__title {
-  font-weight: 400;
+h1, h2, h3, h4, .page__title, .site-title {
   font-family: $serif;
-}
-
-h1, h2, h3 {
   font-weight: 400;
-  font-family: $serif;
 }
 
 .page__content {
@@ -29,9 +23,4 @@ h1, h2, h3 {
 
 .page__content ul li {
   margin-bottom: 0.75em;
-}
-
-.site-title {
-  font-family: $serif;
-  font-weight: 400;
 }
